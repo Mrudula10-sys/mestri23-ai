@@ -1,32 +1,65 @@
 # Hi, I'm Mrudula Mestri 👋
 
-Computer Engineering Student (2027)
+Final-year B.E. Computer Engineering Student
+Aspiring Data Analyst
+Passionate about transforming raw data into meaningful insights.
 
-Interested in Software Development, Flutter Development, and Data Analytics
 
-### Technical Skills
+## Skills
 
-* Python
-* Dart
-* SQL
-* Flutter
-* HTML
-* CSS
-* Power BI
+- Excel
+- SQL
+- Python
+- Power BI
+- Pandas
+- Matplotlib
+- Git & GitHub
 
-### Current Project
 
-Engineering College Recommendation & Comparison App
+## Projects
 
-A Flutter-based application that helps students search, filter, compare, and evaluate engineering colleges based on fees, placements, ratings, and rankings.
+### Walmart Sales Analysis
+Python project analyzing sales trends, holiday impact, and store performance.
 
-### Currently Learning
+Tools:
+- Python
+- Pandas
+- Matplotlib
 
-* Data Structures & Algorithms
-* Git & GitHub
-* SQL
-* Flutter Development
 
-### Connect With Me
+### Engineering College Recommendation System
 
-* Email: [mrudula25323@gmail.com](mailto:mrudula25323@gmail.com)
+Flutter application for searching, comparing, and recommending engineering colleges.
+
+Tools:
+- Flutter
+- Dart
+- Firebase
+
+
+### Student Achievement Tracker
+
+Web application to manage student certificates and achievements.
+
+Tools:
+- HTML
+- CSS
+- JavaScript
+- Firebase
+
+
+## Currently Learning
+
+- Advanced SQL
+- Power BI Dashboards
+- Data Cleaning
+- Data Visualization
+
+
+## Contact
+
+LinkedIn:
+(Add your LinkedIn)
+
+Email:
+mrudula25323@gmail.com
