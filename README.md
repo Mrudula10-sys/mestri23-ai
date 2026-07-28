@@ -36,16 +36,15 @@ Tools:
 - Dart
 - Firebase
 
+### Walmart Sales Performance Analysis Dashboard
 
-### Student Achievement Tracker
+Developed a data analytics dashboard to analyze Walmart's weekly sales data, visualize key performance indicators (KPIs), compare holiday and non-holiday sales, identify top-performing stores, and uncover business insights.
 
-Web application to manage student certificates and achievements.
-
-Tools:
-- HTML
-- CSS
-- JavaScript
-- Firebase
+**Tools:**
+- Python
+- Pandas
+- NumPy
+- Matplotlib
 
 
 ## Currently Learning
