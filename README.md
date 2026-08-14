@@ -58,7 +58,6 @@ Developed a data analytics dashboard to analyze Walmart's weekly sales data, vis
 ## Contact
 
 LinkedIn:
-(Add your LinkedIn)
 
 Email:
 mrudula25323@gmail.com
